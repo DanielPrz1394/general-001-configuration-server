@@ -1,7 +1,5 @@
 # General 001 - Configuration Server
 
-*** 
-
 Process to generate a configuration server for applications with Spring Cloud Config and Spring Data JDBC.
 
 ## Requirements
