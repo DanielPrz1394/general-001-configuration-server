@@ -1,4 +1,4 @@
-package com.github.danielprz1393.general_001_configuration_server;
+package com.github.danielprz1394.general.general_001_configuration_server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
